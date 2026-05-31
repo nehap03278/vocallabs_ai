@@ -1,50 +1,24 @@
-\# Competitor Analysis — Voice AI Market
+# Competitor Analysis
 
+---
 
+## Twilio-based Voice Solutions
+- Strength: Highly flexible APIs
+- Weakness: Requires heavy engineering effort
 
-\## Retell AI
+## Retell AI / Bland AI (voice agents category)
+- Strength: Fast deployment
+- Weakness: Limited customization depth
 
-\- Strong developer-first onboarding
+## Key Gap in Market
+Most competitors fall into two extremes:
+- Highly technical (Twilio)
+- Fully black-box automation (voice agents)
 
-\- Easy API-based voice integration
+---
 
-\- Clear documentation and quick start
-
-
-
-\## Vapi
-
-\- Modular voice AI infrastructure
-
-\- Developer-friendly ecosystem
-
-\- Flexible integration system
-
-
-
-\## Bland AI
-
-\- Strong outbound calling focus
-
-\- Outcome-driven messaging (sales automation)
-
-\- Clear use-case positioning
-
-
-
-\---
-
-
-
-\## Key Insight
-
-
-
-Vocallabs is strong technically but weaker in:
-
-\- Clear positioning
-
-\- Instant demo experience
-
-\- Outcome-driven messaging
-
+## Opportunity for Vocallabs
+Position between both:
+- No-code + controllable AI
+- Transparent decision system
+- Vertical-specific workflows
